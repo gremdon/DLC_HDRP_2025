@@ -6533,7 +6533,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!320 &468936572
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -11408,7 +11408,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!81 &879744552
 AudioListener:
   m_ObjectHideFlags: 0
@@ -14448,7 +14448,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1057748584
 Transform:
   m_ObjectHideFlags: 0
@@ -15902,7 +15902,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1154267117
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23005,7 +23005,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!95 &1696019317
 Animator:
   serializedVersion: 5
@@ -23331,7 +23331,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1719348658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23362,7 +23362,7 @@ MonoBehaviour:
     LensShift: {x: 0, y: 0}
     GateFit: 2
     FocusDistance: 10
-    m_SensorSize: {x: 1, y: 1}
+    m_SensorSize: {x: 36, y: 24}
     Iso: 200
     ShutterSpeed: 0.005
     Aperture: 16
@@ -23386,7 +23386,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1719348657}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.022224285, y: 0.00016739292, z: 0.0000037211066, w: 0.999753}
+  m_LocalRotation: {x: -0.05825778, y: -0.000090350026, z: -0.0000052725477, w: 0.9983016}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
